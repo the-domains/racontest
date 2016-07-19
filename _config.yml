@@ -6,9 +6,9 @@ color:
   saturation: 0.6958186270203441
   rhythmicContrast: 0.6874391925521195
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: Racontest
