@@ -1,0 +1,14 @@
+layout_spectrum: 0.9220553368795663
+typography_spectrum: 0.5649068977218121
+color:
+  brandStrength: 0.3218717407435179
+  lightness: 0.45162183698266745
+  saturation: 0.6958186270203441
+  rhythmicContrast: 0.6874391925521195
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Racontest
